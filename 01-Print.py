@@ -1,0 +1,6 @@
+print("Hola Mundo")
+print("Este es un mensaje")
+print("200")
+print("Me encanta estudiar Python")
+print("Estudiar con Python Total es super divertido")
+print(500 + 55)
