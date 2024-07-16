@@ -5,4 +5,4 @@
 
 
 #input("¿Qué estas estudiando?")
-input(input("Escribe Tu Nombre: ") + " " +input("Escribe Tu Apellido: "))
+#input(input("Escribe Tu Nombre: ") + " " +input("Escribe Tu Apellido: "))
